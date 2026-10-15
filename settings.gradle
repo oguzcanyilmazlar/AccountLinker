@@ -1,0 +1,3 @@
+rootProject.name = 'accountlinking'
+include 'core'
+include 'dummy'
